@@ -1,0 +1,19 @@
+.home{
+    background-image: url('bg.jpg');
+    background-size:cover;
+    background-position:center center;
+}
+.nav-link{
+    color: wheat;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-link:hover{
+    color: aqua;
+}
+.navbar-brand{
+    color: wheat;
+}
+body{
+    background-color: rgb(206, 226, 229);
+}
